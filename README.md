@@ -48,6 +48,12 @@ Started Metro Bundler
 Android Bundling complete 22146ms
 Android Running app on SM-G965F
 
+# SCREENSHOTS:
+![Screenshot 1](images/1.jpeg)
+![Screenshot 2](images/2.jpeg)
+
+
+
 # TROUBLESHOOTING:
 
 If errors encountered during screen loading, try to swipe off previous screens on your Android device and restart Expo again
