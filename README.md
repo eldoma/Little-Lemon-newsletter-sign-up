@@ -35,9 +35,11 @@ Android Bundling complete 20856ms
 
 -> npm install -g expo-cli
 
--> yarn install
+-> yarn install (may not work in slower PCs)
 
 -> npx expo install expo-asset@~8.6.3 react-native@0.69.9
+
+-> npx expo start
 
 Then plug your Android device and Run in Android
 
