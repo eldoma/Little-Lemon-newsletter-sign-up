@@ -29,8 +29,7 @@ Then plug your Android device and Run in Android
 
 Android Bundling complete 20856ms
 
-
-Should be able to download any Bundling on its own
+## Should be able to download any Bundling on its own
 
 ## 2. USING EXPO CLI
 
@@ -62,6 +61,7 @@ Android Bundling complete 22146ms
 
 Android Running app on SM-G965F
 
+## Should also be able to download any Bundling on its own
 
 # SCREENSHOTS:
 
