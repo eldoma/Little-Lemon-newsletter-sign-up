@@ -50,8 +50,7 @@ Android Running app on SM-G965F
 
 # SCREENSHOTS:
 
-<img src="images/1.jpeg" alt="Screenshot 1" width="500" height="1000">
-<img src="images/2.jpeg" alt="Screenshot 2" width="500" height="1000">
+<img src="images/1.jpeg" alt="Screenshot 1" width="200" height="400"> <img src="images/2.jpeg" alt="Screenshot 2" width="200" height="400">
 
 
 
