@@ -71,7 +71,9 @@ Android Running app on SM-G965F
 
 # TROUBLESHOOTING:
 
-If errors encountered during screen loading, try to swipe off previous screens on your Android device and restart Expo again
+If errors encountered during screen loading, try to swipe off previous screens on your Android device and restart Expo again.
+Make sure you're properly logged in in Expo Android.
+
 
 
 
