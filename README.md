@@ -49,8 +49,8 @@ Android Bundling complete 22146ms
 Android Running app on SM-G965F
 
 # SCREENSHOTS:
-![Screenshot 1](images/1.jpeg)
-![Screenshot 2](images/2.jpeg)
+![Screenshot 1](images/1.jpeg){width="50" height="100"}
+![Screenshot 2](images/2.jpeg){width="50" height="100"}
 
 
 
