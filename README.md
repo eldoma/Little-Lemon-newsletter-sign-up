@@ -1,14 +1,14 @@
 # Little-Lemon-newsletter-sign-up
 Made with React Native
 
-DELETABLE FOLDERS
+# DELETABLE FOLDERS
 
 .expo
 node_modules
 
 
-Steps to reproduce:
-1. USING YARN
+# Steps to reproduce:
+## 1. USING YARN
 
 -> yarn install
 
@@ -26,7 +26,7 @@ Android Bundling complete 20856ms
 
 Should be able to download any Bundling on its own
 
-2. USING EXPO CLI
+## 2. USING EXPO CLI
 
 -> npm install -g expo-cli
 
@@ -47,9 +47,9 @@ Started Metro Bundler
 Android Bundling complete 22146ms
 Android Running app on SM-G965F
 
-TROUBLESHOOTING:
+# TROUBLESHOOTING:
 
-If errors encountered during screen loading, try to swipe off previous screens on your Android device and start again
+If errors encountered during screen loading, try to swipe off previous screens on your Android device and restart Expo again
 
 
 
