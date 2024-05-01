@@ -4,6 +4,7 @@ Made with React Native
 # DELETABLE FOLDERS
 
 .expo
+
 node_modules
 
 
